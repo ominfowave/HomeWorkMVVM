@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeWorkMVVM</string>
+    <string name="str_login_success">Login Successfully</string>
+</resources>
